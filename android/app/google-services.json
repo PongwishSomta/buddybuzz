@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339917968263",
+    "project_id": "buddybuzz-6b10f",
+    "storage_bucket": "buddybuzz-6b10f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339917968263:android:41f33164dec7991783f922",
+        "android_client_info": {
+          "package_name": "com.example.buddybuzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKDyWt4CDi5gG5UHOskw7e1g6PPRIPPBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
